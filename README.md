@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Muqtadirat Yussuff</h1>
 <h3 align="center">A passionate and artistic frontend developer</h3>
 
-- 🔭 I’m currently working on [uy-portfolio](https://github.com/Muqtadirat/uy-portfolio-v2)
+- 🔭 I’m currently working on [uy-portfolio](https://uy-portfolio-v2.vercel.app/)
 
 - 🌱 I’m currently learning **Typescript, MongoDB, Node.js**
 
